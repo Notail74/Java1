@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7b57b61-36cf-4841-9202-e1f30523eb65" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Lesson3/Cars.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lesson3/Cars.java" afterDir="false" />
-    </list>
+    <list default="true" id="a7b57b61-36cf-4841-9202-e1f30523eb65" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -180,7 +178,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -197,17 +195,6 @@
             <path>
               <item name="14072019" type="b2602c69:ProjectViewProjectNode" />
               <item name="14072019" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="14072019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="14072019" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="14072019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="14072019" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="14072019" type="b2602c69:ProjectViewProjectNode" />
@@ -398,8 +385,7 @@
     <option name="totallyTimeSpent" value="20757000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="0" width="974" height="1047" extended-state="1" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22428884" />
       <window_info id="Structure" order="1" weight="0.25" />
